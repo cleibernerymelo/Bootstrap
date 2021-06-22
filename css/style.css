@@ -1,0 +1,47 @@
+body {
+    font: 30px arial, sans-serif;
+}
+
+.quem-somos {
+    background-color: #A020F0;
+    color: white;
+    font-size: 5px;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.image {
+    border-radius: 50px
+}
+
+.parceiros {
+    background-color: #A9A9A9;
+    color: white;
+}
+
+p {
+    font-size: 12px;
+    text-align: justify;
+}
+
+h4 {
+    font-size: 12px;
+    text-align: center;
+}
+
+.servicos {
+    background-color: #66CDAA;
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+p, .text-center {
+    text-align: center;
+}
